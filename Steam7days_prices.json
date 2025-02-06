@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Shadow Case",
+    "price": 1.85,
+    "с": 3551.71,
+    "trends": {
+      "year_trend": 1.9153,
+      "month_trend": 1.5591,
+      "week_trend": 1.2265
+    },
+    "score": 1.58
+  },
+  {
+    "name": "Falchion Case",
+    "price": 2.0,
+    "с": 3913.86,
+    "trends": {
+      "year_trend": 1.9221,
+      "month_trend": 1.3159,
+      "week_trend": 1.1454
+    },
+    "score": 1.46
+  },
+  {
+    "name": "Chroma Case",
+    "price": 5.0,
+    "с": 1390.43,
+    "trends": {
+      "year_trend": 1.8583,
+      "month_trend": 1.3249,
+      "week_trend": 1.1443
+    },
+    "score": 1.44
+  },
+  {
+    "name": "Dreams & Nightmares Case",
+    "price": 1.89,
+    "с": 92719.0,
+    "trends": {
+      "year_trend": 2.468,
+      "month_trend": 1.0113,
+      "week_trend": 1.0264
+    },
+    "score": 1.43
+  },
+  {
+    "name": "Horizon Case",
+    "price": 1.64,
+    "с": 8158.29,
+    "trends": {
+      "year_trend": 2.0939,
+      "month_trend": 1.1716,
+      "week_trend": 1.0906
+    },
+    "score": 1.42
+  },
+  {
+    "name": "Spectrum Case",
+    "price": 4.72,
+    "с": 3540.14,
+    "trends": {
+      "year_trend": 1.9696,
+      "month_trend": 1.1461,
+      "week_trend": 1.1312
+    },
+    "score": 1.4
+  },
+  {
+    "name": "Revolver Case",
+    "price": 1654.29,
+    "с": 3670.43,
+    "trends": {
+      "year_trend": 1.7796,
+      "month_trend": 1.1554,
+      "week_trend": 1.1121
+    },
+    "score": 1.35
+  },
+  {
+    "name": "AK-47 | Redline (Field-Tested)",
+    "price": 37.08,
+    "с": 104.57,
+    "trends": {
+      "year_trend": 2.2345,
+      "month_trend": 0.9787,
+      "week_trend": 1.0074
+    },
+    "score": 1.35
+  },
+  {
+    "name": "Gamma Case",
+    "price": 4.12,
+    "с": 3483.71,
+    "trends": {
+      "year_trend": 1.8771,
+      "month_trend": 1.0926,
+      "week_trend": 1.065
+    },
+    "score": 1.33
+  },
+  {
+    "name": "Spectrum 2 Case",
+    "price": 3.08,
+    "с": 6164.0,
+    "trends": {
+      "year_trend": 1.943,
+      "month_trend": 1.0616,
+      "week_trend": 1.0481
+    },
+    "score": 1.33
+  },
+  {
+    "name": "Glove Case",
+    "price": 8.85,
+    "с": 3353.29,
+    "trends": {
+      "year_trend": 1.7974,
+      "month_trend": 1.0751,
+      "week_trend": 1.0756
+    },
+    "score": 1.31
+  },
+  {
+    "name": "Chroma 2 Case",
+    "price": 4.02,
+    "с": 3179.14,
+    "trends": {
+      "year_trend": 1.7719,
+      "month_trend": 1.0713,
+      "week_trend": 1.0628
+    },
+    "score": 1.3
+  },
+  {
+    "name": "AK-47 | Slate (Field-Tested)",
+    "price": 4.77,
+    "с": 921.43,
+    "trends": {
+      "year_trend": 2.3864,
+      "month_trend": 1.0725,
+      "week_trend": 0.7242
+    },
+    "score": 1.3
+  },
+  {
+    "name": "Chroma 3 Case",
+    "price": 3.67,
+    "с": 4584.14,
+    "trends": {
+      "year_trend": 1.7825,
+      "month_trend": 1.0544,
+      "week_trend": 1.054
+    },
+    "score": 1.29
+  },
+  {
+    "name": "AK-47 | Slate (Minimal Wear)",
+    "price": 7.58,
+    "с": 317.0,
+    "trends": {
+      "year_trend": 2.2679,
+      "month_trend": 1.0961,
+      "week_trend": 0.7317
+    },
+    "score": 1.28
+  },
+  {
+    "name": "Operation Phoenix Weapon Case",
+    "price": 2637.45,
+    "с": 1929.14,
+    "trends": {
+      "year_trend": 1.6937,
+      "month_trend": 1.0436,
+      "week_trend": 1.0396
+    },
+    "score": 1.26
+  },
+  {
+    "name": "Operation Riptide Case",
+    "price": 8.3,
+    "с": 408.57,
+    "trends": {
+      "year_trend": 1.5282,
+      "month_trend": 1.1476,
+      "week_trend": 1.0679
+    },
+    "score": 1.26
+  },
+  {
+    "name": "Gamma 2 Case",
+    "price": 3.92,
+    "с": 4391.0,
+    "trends": {
+      "year_trend": 1.8391,
+      "month_trend": 0.9561,
+      "week_trend": 1.0354
+    },
+    "score": 1.26
+  },
+  {
+    "name": "Operation Broken Fang Case",
+    "price": 6.32,
+    "с": 1120.57,
+    "trends": {
+      "year_trend": 1.3784,
+      "month_trend": 1.129,
+      "week_trend": 1.0932
+    },
+    "score": 1.23
+  },
+  {
+    "name": "Operation Wildfire Case",
+    "price": 3.46,
+    "с": 1548.0,
+    "trends": {
+      "year_trend": 1.5026,
+      "month_trend": 1.0991,
+      "week_trend": 1.0337
+    },
+    "score": 1.23
+  },
+  {
+    "name": "AK-47 | Elite Build (Minimal Wear)",
+    "price": 3.21,
+    "с": 480.71,
+    "trends": {
+      "year_trend": 1.8699,
+      "month_trend": 1.0733,
+      "week_trend": 0.8353
+    },
+    "score": 1.22
+  },
+  {
+    "name": "Operation Breakout Weapon Case",
+    "price": 8.56,
+    "с": 2525.0,
+    "trends": {
+      "year_trend": 1.3638,
+      "month_trend": 1.0358,
+      "week_trend": 1.0063
+    },
+    "score": 1.16
+  },
+  {
+    "name": "Shattered Web Case",
+    "price": 4.78,
+    "с": 908.57,
+    "trends": {
+      "year_trend": 1.16,
+      "month_trend": 1.1026,
+      "week_trend": 1.0144
+    },
+    "score": 1.13
+  },
+  {
+    "name": "Desert Eagle | Printstream (Field-Tested)",
+    "price": 40.38,
+    "с": 158.86,
+    "trends": {
+      "year_trend": 1.1262,
+      "month_trend": 1.0411,
+      "week_trend": 0.9805
+    },
+    "score": 1.09
+  },
+  {
+    "name": "Paris 2023 Mirage Souvenir Package",
+    "price": 2.77,
+    "с": 598.43,
+    "trends": {
+      "year_trend": 0.9771,
+      "month_trend": 0.991,
+      "week_trend": 0.9824
+    },
+    "score": 1.03
+  },
+  {
+    "name": "Stockholm 2021 Contenders Sticker Capsule",
+    "price": 1.7,
+    "с": 206.57,
+    "trends": {
+      "year_trend": 0.4019,
+      "month_trend": 1.1543,
+      "week_trend": 1.1094
+    },
+    "score": 1.0
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "price": 6.41,
+    "с": 767.86,
+    "trends": {
+      "year_trend": 0.9482,
+      "month_trend": 1.0185,
+      "week_trend": 0.8414
+    },
+    "score": 0.97
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Minimal Wear)",
+    "price": 11.28,
+    "с": 275.0,
+    "trends": {
+      "year_trend": 0.9648,
+      "month_trend": 0.9855,
+      "week_trend": 0.8261
+    },
+    "score": 0.96
+  },
+  {
+    "name": "Stockholm 2021 Challengers Sticker Capsule",
+    "price": 1.95,
+    "с": 167.71,
+    "trends": {
+      "year_trend": 0.4485,
+      "month_trend": 0.9351,
+      "week_trend": 0.9834
+    },
+    "score": 0.88
+  },
+  {
+    "name": "Desert Eagle | Heat Treated (Minimal Wear)",
+    "price": 4.41,
+    "с": 283.14,
+    "trends": {
+      "year_trend": 1.0,
+      "month_trend": 0.3883,
+      "week_trend": 0.7886
+    },
+    "score": 0.74
+  }
+]
